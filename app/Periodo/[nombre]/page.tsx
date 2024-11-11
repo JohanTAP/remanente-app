@@ -16,9 +16,14 @@ interface Periodo
     }[];
 }
 
-export default async function PeriodoPage ( { params }: { params: { nombre: string } } )
+export async function generateStaticParams ()
 {
-    const { nombre } = await params;
+    return Object.keys( periodosData.Periodos ).map( ( nombre ) => ( { nombre } ) );
+}
+
+export default function PeriodoPage ( { params }: { params: { nombre: string } } )
+{
+    const { nombre } = params;
 
     const periodo: Periodo | undefined = periodosData.Periodos[ nombre as keyof typeof periodosData.Periodos ];
 
@@ -29,7 +34,7 @@ export default async function PeriodoPage ( { params }: { params: { nombre: stri
 
     return (
         <div className="p-8">
-            <h1 className="text-4xl font-bold">Cronologia</h1>
+            <h1 className="text-4xl font-bold">Cronología</h1>
 
             { }
             { periodo.Eventos && periodo.Eventos.length > 0 ? (
