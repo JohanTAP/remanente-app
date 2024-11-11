@@ -12,7 +12,7 @@
           "anos_despues_hijo": 800,
           "ano_nacimiento": 0,
           "ano_muerte": 930,
-          "articulo": "El nombre significa 'rojo' u 'hombre'. Es el primer hombre, creado por Dios, cuya esposa fue Eva. A Adán se le dio autoridad sobre la tierra. El pecado vino a través de Adán y Eva comiendo el fruto prohibido en el Jardín del Edén, su hogar que se había perdido, pero que debía ser restaurado.",
+          "articulo": "<p><strong>El nombre significa ''rojo'' u ''hombre''. Es el primer hombre, creado por Dios, cuya esposa fue Eva. A Adán se le dio autoridad sobre la tierra. El pecado vino a través de Adán y Eva comiendo el fruto prohibido en el Jardín del Edén, su hogar que se había perdido, pero que debía ser restaurado.</strong></p><br><p>El primer miembro de la familia humana, creado por Dios del polvo de la tierra (Gn 2,7). Su esposa, Eva, fue formada de una costilla de su costado (versos 21, 22). A Adán se le dio autoridad sobre la tierra y todas las criaturas vivientes (cap. 1:26) y se le ordenó poblar el mundo (v 28). A él y a su esposa se les colocó en un 'jardín hacia el oriente de Edén', y se les dio la tarea de cuidarlo (capítulo 2:8, 15). El producto de la planta y el árbol debía ser su alimento (cap. 1:29).</p><br><p>Adán y Eva fueron creados perfectos (Génesis 1:31), y por lo tanto sin pecado. Pero también fueron creados con el poder de elección, y por lo tanto tenían la libertad de desobedecer a Dios. Fueron probados por medio del ''árbol de la ciencia del bien y del mal'', cuyo fruto Dios les prohibió probar o incluso tocar (caps 2:17; 3:3). Eva fue engañada por la serpiente para que comiera del árbol, y luego persuadió a Adán para que también comiera (cap. 3:1-7). Por este acto de desobediencia trajeron la maldición del pecado sobre sí mismos y sobre sus hijos, y fueron expulsados del jardín (versos 8-24).</p><br><p>Después de la expulsión del Jardín del Edén, Adán y Eva se convirtieron en los padres de Caín, Abel, Set e ''hijos e hija'' (caps 4:1, 2, 25; 5:4). Adán tenía 930 años de edad cuando murió (cap. 5:5). No se sabe cuánto tiempo vivió en el Edén, aunque fue solo un período comparativamente corto, ya que solo tenía 130 años cuando nació Set (v 3), que evidentemente fue algún tiempo después de la expulsión (cf. cap. 4:1-25). A través del pecado de Adán, la muerte cayó sobre toda la familia humana (Rom 5:12-14; Ef 2:12). Sin embargo, Cristo, el segundo Adán (1 Corintios 15:45-47), venció donde el primer Adán fracasó (cf. Mt 4:1-10), y por Su sacrificio hizo posible nuestra redención de los resultados del pecado de Adán (Heb 5:9; 9:28).</p>",
           "escrituras": [
             {
               "referencia": "Genesis 2:7",
@@ -30,7 +30,16 @@
           "anos_hasta_hijo": 105,
           "anos_despues_hijo": 807,
           "ano_nacimiento": 130,
-          "ano_muerte": 1042
+          "ano_muerte": 1042,
+          "articulo": "<strong>Significado del nombre: ''designado'' o ''suplente''. Set fue el tercer hijo de Adán, nacido después de Abel. Él es el padre de Enós y un linaje piadoso cuya genealogía termina con los tres hijos de Noé. Murió a la edad de 912 años.</strong></p><br><p>El tercer hijo de Adán, nacido después de Abel (de quien se convirtió en su sustituto) fue asesinado (Génesis 4:25; 5:3). Set llegó a ser el padre de Enós (KJV ''Enós''), y el progenitor de la línea piadosa de los hombres (ver capítulo 6:2). Murió a la edad de 912 años (cap. 5:8).<p>",
+          "escrituras": [{
+            "referencia": "Genesis 5:3",
+            "texto": "3 Y vivió Adán ciento treinta años, y engendró un hijo a su imagen, a su imagen; y llamó su nombre Set;"
+          },
+          {
+            "referencia": "Genesis 5:8",
+            "texto": "8 Y fueron todos los días de Set novecientos doce años, y murió."
+          }]
         },
         {
           "nombre": "Enos",
@@ -38,7 +47,9 @@
           "anos_hasta_hijo": 90,
           "anos_despues_hijo": 815,
           "ano_nacimiento": 235,
-          "ano_muerte": 1140
+          "ano_muerte": 1140,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Cainan",
@@ -46,7 +57,9 @@
           "anos_hasta_hijo": 70,
           "anos_despues_hijo": 840,
           "ano_nacimiento": 325,
-          "ano_muerte": 1235
+          "ano_muerte": 1235,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Mahalaleel",
@@ -54,7 +67,9 @@
           "anos_hasta_hijo": 65,
           "anos_despues_hijo": 830,
           "ano_nacimiento": 395,
-          "ano_muerte": 1290
+          "ano_muerte": 1290,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Jared",
@@ -62,7 +77,9 @@
           "anos_hasta_hijo": 162,
           "anos_despues_hijo": 800,
           "ano_nacimiento": 460,
-          "ano_muerte": 1422
+          "ano_muerte": 1422,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Enoc",
@@ -70,7 +87,9 @@
           "anos_hasta_hijo": 65,
           "anos_despues_hijo": 300,
           "ano_nacimiento": 622,
-          "ano_muerte": "Ascendido"
+          "ano_muerte": "Ascendido",
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Matusalen",
@@ -78,7 +97,9 @@
           "anos_hasta_hijo": 187,
           "anos_despues_hijo": 782,
           "ano_nacimiento": 687,
-          "ano_muerte": 1656
+          "ano_muerte": 1656,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Lamec",
@@ -86,7 +107,9 @@
           "anos_hasta_hijo": 182,
           "anos_despues_hijo": 595,
           "ano_nacimiento": 874,
-          "ano_muerte": 1651
+          "ano_muerte": 1651,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Noe",
@@ -94,7 +117,9 @@
           "anos_hasta_hijo": 502,
           "anos_despues_hijo": 448,
           "ano_nacimiento": 1056,
-          "ano_muerte": 2006
+          "ano_muerte": 2006,
+          "articulo": "",
+          "escrituras": []
         }
       ]
     },
@@ -109,7 +134,9 @@
           "anos_hasta_hijo": 100,
           "anos_despues_hijo": 500,
           "ano_nacimiento": 1558,
-          "ano_muerte": 2158
+          "ano_muerte": 2158,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Arfaxad",
@@ -117,7 +144,9 @@
           "anos_hasta_hijo": 35,
           "anos_despues_hijo": 403,
           "ano_nacimiento": 1658,
-          "ano_muerte": 2096
+          "ano_muerte": 2096,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Sala",
@@ -125,7 +154,9 @@
           "anos_hasta_hijo": 30,
           "anos_despues_hijo": 403,
           "ano_nacimiento": 1693,
-          "ano_muerte": 2126
+          "ano_muerte": 2126,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Heber",
@@ -133,7 +164,9 @@
           "anos_hasta_hijo": 34,
           "anos_despues_hijo": 430,
           "ano_nacimiento": 1723,
-          "ano_muerte": 2187
+          "ano_muerte": 2187,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Peleg",
@@ -141,7 +174,9 @@
           "anos_hasta_hijo": 30,
           "anos_despues_hijo": 209,
           "ano_nacimiento": 1757,
-          "ano_muerte": 1996
+          "ano_muerte": 1996,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Reu",
@@ -149,7 +184,9 @@
           "anos_hasta_hijo": 32,
           "anos_despues_hijo": 207,
           "ano_nacimiento": 1787,
-          "ano_muerte": 2026
+          "ano_muerte": 2026,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Serug",
@@ -157,7 +194,9 @@
           "anos_hasta_hijo": 30,
           "anos_despues_hijo": 200,
           "ano_nacimiento": 1819,
-          "ano_muerte": 2049
+          "ano_muerte": 2049,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Nacor",
@@ -165,7 +204,9 @@
           "anos_hasta_hijo": 29,
           "anos_despues_hijo": 119,
           "ano_nacimiento": 1849,
-          "ano_muerte": 1997
+          "ano_muerte": 1997,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Tare",
@@ -173,7 +214,9 @@
           "anos_hasta_hijo": 130,
           "anos_despues_hijo": 75,
           "ano_nacimiento": 1878,
-          "ano_muerte": 2083
+          "ano_muerte": 2083,
+          "articulo": "",
+          "escrituras": []
         }
       ]
     },
@@ -187,7 +230,9 @@
           "edad": 175,
           "anos_hasta_hijo": 100,
           "ano_nacimiento": 2008,
-          "ano_muerte": 2183
+          "ano_muerte": 2183,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Isaac",
@@ -195,7 +240,9 @@
           "anos_hasta_hijo": 60,
           "anos_despues_hijo": 120,
           "ano_nacimiento": 2108,
-          "ano_muerte": 2288
+          "ano_muerte": 2288,
+          "articulo": "",
+          "escrituras": []
         },
         {
           "nombre": "Jacob",
@@ -203,7 +250,9 @@
           "anos_hasta_hijo": 91,
           "anos_despues_hijo": 55,
           "ano_nacimiento": 2168,
-          "ano_muerte": 2315
+          "ano_muerte": 2315,
+          "articulo": "",
+          "escrituras": []
         }
       ]
     },
@@ -218,7 +267,9 @@
           "anos_hasta_hijo": 91,
           "anos_despues_hijo": 55,
           "ano_nacimiento": 2168,
-          "ano_muerte": 2315
+          "ano_muerte": 2315,
+          "articulo": "",
+          "escrituras": []
         }
       ]
     },
