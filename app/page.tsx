@@ -24,9 +24,9 @@ const periodos: Periodo[] = [
   { id: 8, nombre: 'El Exilio', descripcion: 'Desde la caída de Israel hasta el exilio en Babilonia y los grandes profetas declarando la venida del Mesías.', imagen: '/periodo_8.webp' },
   { id: 9, nombre: 'Vida de Cristo', descripcion: 'Desde el nacimiento del prometido Mesías, Jesús el Cristo, hasta su ministerio, muerte y resurrección.', imagen: '/periodo_9.webp' },
   { id: 10, nombre: 'Iglesia Primitiva', descripcion: 'Desde el martirio de Esteban hasta la persecución y el auge de la iglesia a través de Pablo y los apóstoles.', imagen: '/periodo_10.webp' },
-  { id: 11, nombre: 'Edad Media', descripcion: 'Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Oscura.', imagen: '/periodo_10.webp' },
-  { id: 12, nombre: 'La Reforma', descripcion: 'Desde los grandes reformadores, como Lutero y Wycliffe, hasta la expansión del movimiento protestante.', imagen: '/periodo_10.webp' },
-  { id: 13, nombre: 'Profecías de Apocalipsis', descripcion: 'Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y la restauración del paraíso.', imagen: '/periodo_10.webp' }
+  { id: 11, nombre: 'Edad Media', descripcion: 'Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Oscura.', imagen: '/periodo_11.webp' },
+  { id: 12, nombre: 'La Reforma', descripcion: 'Desde los grandes reformadores, como Lutero y Wycliffe, hasta la expansión del movimiento protestante.', imagen: '/periodo_11.webp' },
+  { id: 13, nombre: 'Profecías de Apocalipsis', descripcion: 'Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y la restauración del paraíso.', imagen: '/periodo_11.webp' }
 ];
 
 export default function PeriodosCarousel ()
