@@ -1,163 +1,280 @@
 {
-    "Periodos": {
-      "Primera_Generacion": {
-        "nombre": "Primera Generación",
-        "descripcion": "Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.",
-        "imagen": "/periodo_1.webp",
-        "Eventos": [
-          {
-            "nombre": "Adán",
-            "edad": 930,
-            "anos_hasta_hijo": 130,
-            "anos_despues_hijo": 800,
-            "ano_nacimiento": 0,
-            "ano_muerte": 930
-          },
-          {
-            "nombre": "Set",
-            "edad": 912,
-            "anos_hasta_hijo": 105,
-            "anos_despues_hijo": 807,
-            "ano_nacimiento": 130,
-            "ano_muerte": 1042
-          },
-          {
-            "nombre": "Enós",
-            "edad": 905,
-            "anos_hasta_hijo": 90,
-            "anos_despues_hijo": 815,
-            "ano_nacimiento": 235,
-            "ano_muerte": 1140
-          },
-          {
-            "nombre": "Cainán",
-            "edad": 910,
-            "anos_hasta_hijo": 70,
-            "anos_despues_hijo": 840,
-            "ano_nacimiento": 325,
-            "ano_muerte": 1235
-          },
-          {
-            "nombre": "Mahalaleel",
-            "edad": 895,
-            "anos_hasta_hijo": 65,
-            "anos_despues_hijo": 830,
-            "ano_nacimiento": 395,
-            "ano_muerte": 1290
-          },
-          {
-            "nombre": "Jared",
-            "edad": 962,
-            "anos_hasta_hijo": 162,
-            "anos_despues_hijo": 800,
-            "ano_nacimiento": 460,
-            "ano_muerte": 1422
-          },
-          {
-            "nombre": "Enoc",
-            "edad": 365,
-            "anos_hasta_hijo": 65,
-            "anos_despues_hijo": 300,
-            "ano_nacimiento": 622,
-            "ano_muerte": "Ascendido"
-          },
-          {
-            "nombre": "Matusalén",
-            "edad": 969,
-            "anos_hasta_hijo": 187,
-            "anos_despues_hijo": 782,
-            "ano_nacimiento": 687,
-            "ano_muerte": 1656
-          },
-          {
-            "nombre": "Lamec",
-            "edad": 777,
-            "anos_hasta_hijo": 182,
-            "anos_despues_hijo": 595,
-            "ano_nacimiento": 874,
-            "ano_muerte": 1651
-          },
-          {
-            "nombre": "Noé",
-            "edad": 950,
-            "anos_hasta_hijo": 0,
-            "ano_nacimiento": 1056,
-            "ano_muerte": 2006
-          }
-        ]
-      },
-      "Noe_y_El_Diluvio": {
-        "nombre": "Noé y El Diluvio",
-        "descripcion": "Desde el ministerio de Noé y el diluvio global, hasta Cush, Nimrod y la torre de Babel.",
-        "imagen": "/periodo_2.webp",
-        "Eventos": []
-      },
-      "Los_Patriarcas": {
-        "nombre": "Los Patriarcas",
-        "descripcion": "Desde el llamado de Abraham, hasta Sodoma y Gomorra, y el surgimiento de las 12 tribus judías a través de Isaac y Jacob.",
-        "imagen": "/periodo_3.webp",
-        "Eventos": []
-      },
-      "De_Egipto_a_Canaan": {
-        "nombre": "De Egipto a Canaán",
-        "descripcion": "Desde la venta de José como esclavo, su ascenso al poder en Egipto, hasta Moisés y el Éxodo.",
-        "imagen": "/periodo_4.webp",
-        "Eventos": []
-      },
-      "Los_Jueces": {
-        "nombre": "Los Jueces",
-        "descripcion": "Desde Moisés y los Diez Mandamientos hasta la entrada de Josué y la expansión judía en la Tierra Prometida.",
-        "imagen": "/periodo_5.webp",
-        "Eventos": []
-      },
-      "Reino_Unido": {
-        "nombre": "Reino Unido",
-        "descripcion": "Desde el rey Saúl hasta el profeta Samuel y el joven rey David y su dinastía real a través de Salomón.",
-        "imagen": "/periodo_6.webp",
-        "Eventos": []
-      },
-      "Reino_Dividido": {
-        "nombre": "Reino Dividido",
-        "descripcion": "Desde los conflictos internos que dividieron la nación de Israel hasta los profetas que advirtieron sobre el exilio venidero.",
-        "imagen": "/periodo_7.webp",
-        "Eventos": []
-      },
-      "El_Exilio": {
-        "nombre": "El Exilio",
-        "descripcion": "Desde la caída de Israel hasta el exilio en Babilonia y los grandes profetas declarando la venida del Mesías.",
-        "imagen": "/periodo_8.webp",
-        "Eventos": []
-      },
-      "Vida_de_Cristo": {
-        "nombre": "Vida de Cristo",
-        "descripcion": "Desde el nacimiento del prometido Mesías, Jesús el Cristo, hasta su ministerio, muerte y resurrección.",
-        "imagen": "/periodo_9.webp",
-        "Eventos": []
-      },
-      "Iglesia_Primitiva": {
-        "nombre": "Iglesia Primitiva",
-        "descripcion": "Desde el martirio de Esteban hasta la persecución y el auge de la iglesia a través de Pablo y los apóstoles.",
-        "imagen": "/periodo_10.webp",
-        "Eventos": []
-      },
-      "Edad_Media": {
-        "nombre": "Edad Media",
-        "descripcion": "Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Oscura.",
-        "imagen": "/periodo_11.webp",
-        "Eventos": []
-      },
-      "La_Reforma": {
-        "nombre": "La Reforma",
-        "descripcion": "Desde los grandes reformadores, como Lutero y Wycliffe, hasta la expansión del movimiento protestante.",
-        "imagen": "/periodo_12.webp",
-        "Eventos": []
-      },
-      "Profecias_de_Apocalipsis": {
-        "nombre": "Profecías de Apocalipsis",
-        "descripcion": "Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y la restauración del paraíso.",
-        "imagen": "/periodo_13.webp",
-        "Eventos": []
-      }
+  "Periodos": {
+    "Primera_Generacion": {
+      "nombre": "Primera Generación",
+      "descripcion": "Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.",
+      "imagen": "/periodo_1.webp",
+      "Eventos": [
+        {
+          "nombre": "Adan",
+          "edad": 930,
+          "anos_hasta_hijo": 130,
+          "anos_despues_hijo": 800,
+          "ano_nacimiento": 0,
+          "ano_muerte": 930,
+          "articulo": "El nombre significa 'rojo' u 'hombre'. Es el primer hombre, creado por Dios, cuya esposa fue Eva. A Adán se le dio autoridad sobre la tierra. El pecado vino a través de Adán y Eva comiendo el fruto prohibido en el Jardín del Edén, su hogar que se había perdido, pero que debía ser restaurado.",
+          "escrituras": [
+            {
+              "referencia": "Genesis 2:7",
+              "texto": "7 Y Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y fue el hombre un ser viviente."
+            },
+            {
+              "referencia": "Genesis 5:5",
+              "texto": "5 Y fueron todos los días que vivió Adán novecientos treinta años; y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Set",
+          "edad": 912,
+          "anos_hasta_hijo": 105,
+          "anos_despues_hijo": 807,
+          "ano_nacimiento": 130,
+          "ano_muerte": 1042
+        },
+        {
+          "nombre": "Enos",
+          "edad": 905,
+          "anos_hasta_hijo": 90,
+          "anos_despues_hijo": 815,
+          "ano_nacimiento": 235,
+          "ano_muerte": 1140
+        },
+        {
+          "nombre": "Cainan",
+          "edad": 910,
+          "anos_hasta_hijo": 70,
+          "anos_despues_hijo": 840,
+          "ano_nacimiento": 325,
+          "ano_muerte": 1235
+        },
+        {
+          "nombre": "Mahalaleel",
+          "edad": 895,
+          "anos_hasta_hijo": 65,
+          "anos_despues_hijo": 830,
+          "ano_nacimiento": 395,
+          "ano_muerte": 1290
+        },
+        {
+          "nombre": "Jared",
+          "edad": 962,
+          "anos_hasta_hijo": 162,
+          "anos_despues_hijo": 800,
+          "ano_nacimiento": 460,
+          "ano_muerte": 1422
+        },
+        {
+          "nombre": "Enoc",
+          "edad": 365,
+          "anos_hasta_hijo": 65,
+          "anos_despues_hijo": 300,
+          "ano_nacimiento": 622,
+          "ano_muerte": "Ascendido"
+        },
+        {
+          "nombre": "Matusalen",
+          "edad": 969,
+          "anos_hasta_hijo": 187,
+          "anos_despues_hijo": 782,
+          "ano_nacimiento": 687,
+          "ano_muerte": 1656
+        },
+        {
+          "nombre": "Lamec",
+          "edad": 777,
+          "anos_hasta_hijo": 182,
+          "anos_despues_hijo": 595,
+          "ano_nacimiento": 874,
+          "ano_muerte": 1651
+        },
+        {
+          "nombre": "Noe",
+          "edad": 950,
+          "anos_hasta_hijo": 502,
+          "anos_despues_hijo": 448,
+          "ano_nacimiento": 1056,
+          "ano_muerte": 2006
+        }
+      ]
+    },
+    "Noe_y_El_Diluvio": {
+      "nombre": "Noé y El Diluvio",
+      "descripcion": "Desde el ministerio de Noé y el diluvio global, hasta Cush, Nimrod y la torre de Babel.",
+      "imagen": "/periodo_2.webp",
+      "Eventos": [
+        {
+          "nombre": "Sem",
+          "edad": 600,
+          "anos_hasta_hijo": 100,
+          "anos_despues_hijo": 500,
+          "ano_nacimiento": 1558,
+          "ano_muerte": 2158
+        },
+        {
+          "nombre": "Arfaxad",
+          "edad": 438,
+          "anos_hasta_hijo": 35,
+          "anos_despues_hijo": 403,
+          "ano_nacimiento": 1658,
+          "ano_muerte": 2096
+        },
+        {
+          "nombre": "Sala",
+          "edad": 433,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 403,
+          "ano_nacimiento": 1693,
+          "ano_muerte": 2126
+        },
+        {
+          "nombre": "Heber",
+          "edad": 464,
+          "anos_hasta_hijo": 34,
+          "anos_despues_hijo": 430,
+          "ano_nacimiento": 1723,
+          "ano_muerte": 2187
+        },
+        {
+          "nombre": "Peleg",
+          "edad": 239,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 209,
+          "ano_nacimiento": 1757,
+          "ano_muerte": 1996
+        },
+        {
+          "nombre": "Reu",
+          "edad": 239,
+          "anos_hasta_hijo": 32,
+          "anos_despues_hijo": 207,
+          "ano_nacimiento": 1787,
+          "ano_muerte": 2026
+        },
+        {
+          "nombre": "Serug",
+          "edad": 230,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 200,
+          "ano_nacimiento": 1819,
+          "ano_muerte": 2049
+        },
+        {
+          "nombre": "Nacor",
+          "edad": 148,
+          "anos_hasta_hijo": 29,
+          "anos_despues_hijo": 119,
+          "ano_nacimiento": 1849,
+          "ano_muerte": 1997
+        },
+        {
+          "nombre": "Tare",
+          "edad": 205,
+          "anos_hasta_hijo": 130,
+          "anos_despues_hijo": 75,
+          "ano_nacimiento": 1878,
+          "ano_muerte": 2083
+        }
+      ]
+    },
+    "Los_Patriarcas": {
+      "nombre": "Los Patriarcas",
+      "descripcion": "Desde el llamado de Abraham, hasta Sodoma y Gomorra, y el surgimiento de las 12 tribus judías a través de Isaac y Jacob.",
+      "imagen": "/periodo_3.webp",
+      "Eventos": [
+        {
+          "nombre": "Abraham",
+          "edad": 175,
+          "anos_hasta_hijo": 100,
+          "ano_nacimiento": 2008,
+          "ano_muerte": 2183
+        },
+        {
+          "nombre": "Isaac",
+          "edad": 180,
+          "anos_hasta_hijo": 60,
+          "anos_despues_hijo": 120,
+          "ano_nacimiento": 2108,
+          "ano_muerte": 2288
+        },
+        {
+          "nombre": "Jacob",
+          "edad": 147,
+          "anos_hasta_hijo": 91,
+          "anos_despues_hijo": 55,
+          "ano_nacimiento": 2168,
+          "ano_muerte": 2315
+        }
+      ]
+    },
+    "De_Egipto_a_Canaan": {
+      "nombre": "De Egipto a Canaán",
+      "descripcion": "Desde la venta de José como esclavo, su ascenso al poder en Egipto, hasta Moisés y el Éxodo.",
+      "imagen": "/periodo_4.webp",
+      "Eventos": [
+        {
+          "nombre": "Jose",
+          "edad": 110,
+          "anos_hasta_hijo": 91,
+          "anos_despues_hijo": 55,
+          "ano_nacimiento": 2168,
+          "ano_muerte": 2315
+        }
+      ]
+    },
+    "Los_Jueces": {
+      "nombre": "Los Jueces",
+      "descripcion": "Desde Moisés y los Diez Mandamientos hasta la entrada de Josué y la expansión judía en la Tierra Prometida.",
+      "imagen": "/periodo_5.webp",
+      "Eventos": []
+    },
+    "Reino_Unido": {
+      "nombre": "Reino Unido",
+      "descripcion": "Desde el rey Saúl hasta el profeta Samuel y el joven rey David y su dinastía real a través de Salomón.",
+      "imagen": "/periodo_6.webp",
+      "Eventos": []
+    },
+    "Reino_Dividido": {
+      "nombre": "Reino Dividido",
+      "descripcion": "Desde los conflictos internos que dividieron la nación de Israel hasta los profetas que advirtieron sobre el exilio venidero.",
+      "imagen": "/periodo_7.webp",
+      "Eventos": []
+    },
+    "El_Exilio": {
+      "nombre": "El Exilio",
+      "descripcion": "Desde la caída de Israel hasta el exilio en Babilonia y los grandes profetas declarando la venida del Mesías.",
+      "imagen": "/periodo_8.webp",
+      "Eventos": []
+    },
+    "Vida_de_Cristo": {
+      "nombre": "Vida de Cristo",
+      "descripcion": "Desde el nacimiento del prometido Mesías, Jesús el Cristo, hasta su ministerio, muerte y resurrección.",
+      "imagen": "/periodo_9.webp",
+      "Eventos": []
+    },
+    "Iglesia_Primitiva": {
+      "nombre": "Iglesia Primitiva",
+      "descripcion": "Desde el martirio de Esteban hasta la persecución y el auge de la iglesia a través de Pablo y los apóstoles.",
+      "imagen": "/periodo_10.webp",
+      "Eventos": []
+    },
+    "Edad_Media": {
+      "nombre": "Edad Media",
+      "descripcion": "Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Oscura.",
+      "imagen": "/periodo_11.webp",
+      "Eventos": []
+    },
+    "La_Reforma": {
+      "nombre": "La Reforma",
+      "descripcion": "Desde los grandes reformadores, como Lutero y Wycliffe, hasta la expansión del movimiento protestante.",
+      "imagen": "/periodo_12.webp",
+      "Eventos": []
+    },
+    "Profecias_de_Apocalipsis": {
+      "nombre": "Profecías de Apocalipsis",
+      "descripcion": "Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y la restauración del paraíso.",
+      "imagen": "/periodo_13.webp",
+      "Eventos": []
     }
   }
-  
+}
