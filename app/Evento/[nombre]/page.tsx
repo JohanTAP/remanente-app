@@ -15,7 +15,7 @@ interface Evento
 
 interface EventoPageProps
 {
-    params: { nombre: string };
+    params: Promise<{ nombre: string }>;
 }
 
 export default async function EventoPage ( { params }: EventoPageProps )
