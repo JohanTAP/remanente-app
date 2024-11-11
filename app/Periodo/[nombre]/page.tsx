@@ -23,9 +23,9 @@ export async function generateStaticParams ()
 
 export default function PeriodoPage ( { params }: { params: { nombre: string } } )
 {
-    const { nombre } = params;
+    const nombrePeriodo = params.nombre;
 
-    const periodo: Periodo | undefined = periodosData.Periodos[ nombre as keyof typeof periodosData.Periodos ];
+    const periodo: Periodo | undefined = periodosData.Periodos[ nombrePeriodo as keyof typeof periodosData.Periodos ];
 
     if ( !periodo )
     {
@@ -34,7 +34,7 @@ export default function PeriodoPage ( { params }: { params: { nombre: string } }
 
     return (
         <div className="p-8">
-            <h1 className="text-4xl font-bold">Cronología</h1>
+            <h1 className="text-4xl font-bold">{ periodo.nombre }</h1>
 
             { }
             { periodo.Eventos && periodo.Eventos.length > 0 ? (
@@ -42,7 +42,7 @@ export default function PeriodoPage ( { params }: { params: { nombre: string } }
                     { periodo.Eventos.map( ( evento, index ) => (
                         <Card
                             key={ index }
-                            className="shadow-md transition-transform duration-300 ease-[cubic-bezier(0,0,0.5,1)] hover:scale-105 hover:shadow-lg"
+                            className="shadow-md transition-transform duration-300 ease-&lsqb;cubic-bezier(0,0,0.5,1)&rsqb hover:scale-105 hover:shadow-lg"
                         >
                             <CardHeader>
                                 <CardTitle>{ evento.nombre }</CardTitle>
