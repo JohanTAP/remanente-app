@@ -23,7 +23,7 @@ interface PeriodoContentProps
 
 const PeriodoContent: React.FC<PeriodoContentProps> = ( { nombre } ) =>
 {
-    const periodo: Periodo | undefined = periodosData.Periodos[ nombre as keyof typeof periodosData.Periodos ];
+    const periodo: Periodo | undefined = periodosData.Periodos[ nombre as keyof typeof periodosData.Periodos ] as Periodo;
 
     if ( !periodo )
     {
@@ -39,7 +39,7 @@ const PeriodoContent: React.FC<PeriodoContentProps> = ( { nombre } ) =>
                     { periodo.Eventos.map( ( evento, index ) => (
                         <Card
                             key={ index }
-                            className="shadow-md transition-transform duration-300 ease-[cubic-bezier(0,0,0.5,1)] hover:scale-105 hover:shadow-lg"
+                            className="shadow-md transition-transform duration-300 ease-&lsqb;cubic-bezier(0,0,0.5,1)&rsqb; hover:scale-105 hover:shadow-lg"
                         >
                             <CardHeader>
                                 <CardTitle>{ evento.nombre }</CardTitle>

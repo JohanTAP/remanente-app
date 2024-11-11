@@ -20,7 +20,7 @@ interface CarouselItemProps
 const CarouselItem: React.FC<CarouselItemProps> = ( { periodo } ) => (
     <Link href={ `/Periodo/${ periodo.key }` } passHref>
         <div className="flex-none w-[29rem] h-[34rem] snap-center mx-4 cursor-pointer">
-            <div className="bg-white rounded-xl overflow-hidden shadow-md flex flex-col transition-transform duration-300 ease-[cubic-bezier(0,0,0.5,1)] hover:scale-105 hover:shadow-lg h-full">
+            <div className="bg-white rounded-xl overflow-hidden shadow-md flex flex-col transition-transform duration-300 ease-&lsqb;cubic-bezier(0,0,0.5,1)&rsqb; hover:scale-105 hover:shadow-lg h-full">
                 <div className="relative w-full h-[60%]">
                     <Image
                         src={ periodo.imagen }
