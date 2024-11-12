@@ -32,7 +32,7 @@ const PeriodoContent: React.FC<PeriodoContentProps> = ( { nombre } ) =>
     }
 
     return (
-        <div className="p-8">
+        <div className="py-1 px-8">
             <h1 className="text-4xl font-bold">Cronología</h1>
 
             { periodo.Eventos && periodo.Eventos.length > 0 ? (

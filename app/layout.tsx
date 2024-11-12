@@ -26,7 +26,7 @@ export default function RootLayout ( {
 }> )
 {
   return (
-    <html lang="es" className="hide-scrollbar h-full w-full">
+    <html lang="es">
       <body
         className={ `${ geistSans.variable } ${ geistMono.variable } antialiased` }
       >
