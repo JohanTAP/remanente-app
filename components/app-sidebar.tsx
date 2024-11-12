@@ -31,7 +31,7 @@ const data = {
   user: {
     name: "Johan Gutierrez",
     email: "JohanGutierrez@outlook.cl",
-    avatar: "/avatars/shadcn.jpg",
+    avatar: "/favicon.ico",
   },
   teams: [
     {
