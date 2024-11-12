@@ -35,7 +35,7 @@ const data = {
   },
   teams: [
     {
-      name: "Inicio",
+      name: "Remanente",
       logo: GalleryVerticalEnd,
       plan: "App",
     },

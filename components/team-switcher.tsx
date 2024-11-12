@@ -8,7 +8,6 @@ import
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
-  DropdownMenuShortcut,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import
@@ -64,15 +63,14 @@ export function TeamSwitcher ( {
                 key={ team.name }
                 onClick={ () =>
                 {
-                  window.location.href = "/"; // Redirige a la URL raíz
+                  window.location.href = "/";
                 } }
                 className="gap-2 p-2"
               >
                 <div className="flex size-6 items-center justify-center rounded-sm border">
                   <team.logo className="size-4 shrink-0" />
                 </div>
-                { team.name }
-                <DropdownMenuShortcut>⌘</DropdownMenuShortcut>
+                { 'Inicio' }
               </DropdownMenuItem>
             ) ) }
           </DropdownMenuContent>
