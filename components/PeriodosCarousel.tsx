@@ -78,7 +78,7 @@ export default function PeriodosCarousel ()
       </div>
       <div
         ref={ scrollRef }
-        className="flex gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-4"
+        className="flex gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-6 px-2"
         onScroll={ checkScroll }
         id="periodos-carousel"
         aria-live="polite"
