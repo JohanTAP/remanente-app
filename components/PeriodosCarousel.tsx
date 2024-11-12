@@ -43,7 +43,7 @@ export default function PeriodosCarousel ()
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto px-4 py-8">
+    <div className="w-full max-w-7xl mx-auto px-4 py-1">
       <div className="flex items-center justify-between mb-8">
         <div>
           <h2 className="text-3xl font-bold">Períodos Bíblicos</h2>
@@ -78,7 +78,7 @@ export default function PeriodosCarousel ()
       </div>
       <div
         ref={ scrollRef }
-        className="flex gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-8 px-8"
+        className="flex gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-4"
         onScroll={ checkScroll }
         id="periodos-carousel"
         aria-live="polite"
