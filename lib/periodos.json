@@ -15,12 +15,12 @@
           "articulo": "<p><strong>El nombre significa ''rojo'' u ''hombre''. Es el primer hombre, creado por Dios, cuya esposa fue Eva. A Adán se le dio autoridad sobre la tierra. El pecado vino a través de Adán y Eva comiendo el fruto prohibido en el Jardín del Edén, su hogar que se había perdido, pero que debía ser restaurado.</strong></p><br><p>El primer miembro de la familia humana, creado por Dios del polvo de la tierra (Gn 2,7). Su esposa, Eva, fue formada de una costilla de su costado (versos 21, 22). A Adán se le dio autoridad sobre la tierra y todas las criaturas vivientes (cap. 1:26) y se le ordenó poblar el mundo (v 28). A él y a su esposa se les colocó en un 'jardín hacia el oriente de Edén', y se les dio la tarea de cuidarlo (capítulo 2:8, 15). El producto de la planta y el árbol debía ser su alimento (cap. 1:29).</p><br><p>Adán y Eva fueron creados perfectos (Génesis 1:31), y por lo tanto sin pecado. Pero también fueron creados con el poder de elección, y por lo tanto tenían la libertad de desobedecer a Dios. Fueron probados por medio del ''árbol de la ciencia del bien y del mal'', cuyo fruto Dios les prohibió probar o incluso tocar (caps 2:17; 3:3). Eva fue engañada por la serpiente para que comiera del árbol, y luego persuadió a Adán para que también comiera (cap. 3:1-7). Por este acto de desobediencia trajeron la maldición del pecado sobre sí mismos y sobre sus hijos, y fueron expulsados del jardín (versos 8-24).</p><br><p>Después de la expulsión del Jardín del Edén, Adán y Eva se convirtieron en los padres de Caín, Abel, Set e ''hijos e hija'' (caps 4:1, 2, 25; 5:4). Adán tenía 930 años de edad cuando murió (cap. 5:5). No se sabe cuánto tiempo vivió en el Edén, aunque fue solo un período comparativamente corto, ya que solo tenía 130 años cuando nació Set (v 3), que evidentemente fue algún tiempo después de la expulsión (cf. cap. 4:1-25). A través del pecado de Adán, la muerte cayó sobre toda la familia humana (Rom 5:12-14; Ef 2:12). Sin embargo, Cristo, el segundo Adán (1 Corintios 15:45-47), venció donde el primer Adán fracasó (cf. Mt 4:1-10), y por Su sacrificio hizo posible nuestra redención de los resultados del pecado de Adán (Heb 5:9; 9:28).</p>",
           "escrituras": [
             {
-              "referencia": "Genesis 2:7",
-              "texto": "7 Y Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y fue el hombre un ser viviente."
+              "referencia": "Génesis 2:7",
+              "texto": "7 Y Dios el Señor formó al ser humano del polvo del suelo; entonces sopló en su nariz aliento de vida y el hombre se convirtió en un ser viviente."
             },
             {
-              "referencia": "Genesis 5:5",
-              "texto": "5 Y fueron todos los días que vivió Adán novecientos treinta años; y murió."
+              "referencia": "Génesis 5:3-5",
+              "texto": "3 Cuando Adán llegó a la edad de ciento treinta años, tuvo un hijo a su semejanza e imagen, y lo llamó Set. 4 Después del nacimiento de Set, Adán vivió ochocientos años más y tuvo otros hijos y otras hijas. 5 De modo que Adán vivió novecientos treinta años y murió."
             }
           ]
         },
@@ -31,15 +31,21 @@
           "anos_despues_hijo": 807,
           "ano_nacimiento": 130,
           "ano_muerte": 1042,
-          "articulo": "<strong>Significado del nombre: ''designado'' o ''suplente''. Set fue el tercer hijo de Adán, nacido después de Abel. Él es el padre de Enós y un linaje piadoso cuya genealogía termina con los tres hijos de Noé. Murió a la edad de 912 años.</strong></p><br><p>El tercer hijo de Adán, nacido después de Abel (de quien se convirtió en su sustituto) fue asesinado (Génesis 4:25; 5:3). Set llegó a ser el padre de Enós (KJV ''Enós''), y el progenitor de la línea piadosa de los hombres (ver capítulo 6:2). Murió a la edad de 912 años (cap. 5:8).<p>",
-          "escrituras": [{
-            "referencia": "Genesis 5:3",
-            "texto": "3 Y vivió Adán ciento treinta años, y engendró un hijo a su imagen, a su imagen; y llamó su nombre Set;"
-          },
-          {
-            "referencia": "Genesis 5:8",
-            "texto": "8 Y fueron todos los días de Set novecientos doce años, y murió."
-          }]
+          "articulo": "<p><strong>Significado del nombre: ''designado'' o ''suplente''. Set fue el tercer hijo de Adán, nacido después de Abel. Él es el padre de Enós y un linaje piadoso cuya genealogía termina con los tres hijos de Noé. Murió a la edad de 912 años.</strong></p><br><p>El tercer hijo de Adán, nacido después de Abel (de quien se convirtió en su sustituto) fue asesinado (Génesis 4:25; 5:3). Set llegó a ser el padre de Enós (KJV ''Enós''), y el progenitor de la línea piadosa de los hombres (ver capítulo 6:2). Murió a la edad de 912 años (cap. 5:8).<p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:3",
+              "texto": "3 Y vivió Adán ciento treinta años, y engendró un hijo a su imagen, a su imagen; y llamó su nombre Set;"
+            },
+            {
+              "referencia": "Génesis 4:26",
+              "texto": "26 También Set tuvo un hijo, a quien llamó Enós. Desde entonces se comenzó a invocar el nombre del Señor."
+            },
+            {
+              "referencia": "Génesis 5:6-8",
+              "texto": "6 Set tenía ciento cinco años cuando tuvo a su hijo Enós. 7 Después del nacimiento de Enós, Set vivió ochocientos siete años más y tuvo otros hijos y otras hijas. 8 De modo que Set vivió novecientos doce años y murió."
+            }
+          ]
         },
         {
           "nombre": "Enos",
@@ -48,8 +54,21 @@
           "anos_despues_hijo": 815,
           "ano_nacimiento": 235,
           "ano_muerte": 1140,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Significado del nombre: ''mortal'' o ''frágil.'' Un hijo de Set y un nieto de Adán. También deletreado ''Enosh.'' Vivió 905 años. Los hombres comenzaron a invocar el nombre del Señor en este momento (Génesis 4:26).</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:6",
+              "texto": "6 Set tenía ciento cinco años cuando tuvo a su hijo Enós."
+            },
+            {
+              "referencia": "Génesis 4:26",
+              "texto": "26 También Set tuvo un hijo, a quien llamó Enós. Desde entonces se comenzó a invocar el nombre del Señor."
+            },
+            {
+              "referencia": "Génesis 5:9-11",
+              "texto": "9 Enós tenía noventa años cuando tuvo a su hijo Cainán. 10 Después del nacimiento de Cainán, Enós vivió ochocientos quince años más y tuvo otros hijos y otras hijas. 11 De modo que Enós vivió novecientos cinco años y murió."
+            }
+          ]
         },
         {
           "nombre": "Cainan",
@@ -58,8 +77,17 @@
           "anos_despues_hijo": 840,
           "ano_nacimiento": 325,
           "ano_muerte": 1235,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Significado del nombre: ''posesión.'' Él es el cuarto patriarca desde Adán y el hijo mayor de Enos o Enosh. Engendró a Mahalaleel a los 70 años. Vivió 910 años. Este Cainán es diferente del hijo de Arfaxad en Lucas 3:36.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:9",
+              "texto": "9 Enós tenía noventa años cuando tuvo a su hijo Cainán."
+            },
+            {
+              "referencia": "Génesis 5:12-14",
+              "texto": "12 Cainán tenía setenta años cuando tuvo a su hijo Malalel. 13 Después del nacimiento de Malalel, Cainán vivió ochocientos cuarenta años más y tuvo otros hijos y otras hijas. 14 De modo que Cainán vivió novecientos diez años y murió."
+            }
+          ]
         },
         {
           "nombre": "Mahalaleel",
@@ -68,8 +96,17 @@
           "anos_despues_hijo": 830,
           "ano_nacimiento": 395,
           "ano_muerte": 1290,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Significado del nombre: ''alabanza de Dios.'' El hijo de Cainán, de la línea de Set, también llamado Maleleel o Mahalaleel (Lucas 3:37). Vivió 895 años.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:12",
+              "texto": "12 Cainán tenía setenta años cuando tuvo a su hijo Malalel."
+            },
+            {
+              "referencia": "Génesis 5:15-17",
+              "texto": "15 Malalel tenía sesenta y cinco años cuando tuvo a su hijo Jared. 16 Después del nacimiento de Jared, Malalel vivió ochocientos treinta años más y tuvo otros hijos y otras hijas. 17 De modo que Malalel vivió ochocientos noventa y cinco años y murió."
+            }
+          ]
         },
         {
           "nombre": "Jared",
@@ -78,8 +115,17 @@
           "anos_despues_hijo": 800,
           "ano_nacimiento": 460,
           "ano_muerte": 1422,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Significado del nombre: ''siervo.'' El cuarto patriarca de Seth, era el hijo de Mahalalel y el padre de Enoc, también llamado Jered (1 Crón. 1:2). Vivió 962 años.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:15",
+              "texto": "15 Malalel tenía sesenta y cinco años cuando tuvo a su hijo Jared."
+            },
+            {
+              "referencia": "Génesis 5:18-20",
+              "texto": "18 Jared tenía ciento sesenta y dos años cuando tuvo a su hijo Enoc. 19 Después del nacimiento de Enoc, Jared vivió ochocientos años más y tuvo otros hijos y otras hijas. 20 De modo que Jared vivió novecientos sesenta y dos años y murió."
+            }
+          ]
         },
         {
           "nombre": "Enoc",
@@ -88,8 +134,17 @@
           "anos_despues_hijo": 300,
           "ano_nacimiento": 622,
           "ano_muerte": "Ascendido",
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Significado del nombre: ''iniciado'' o ''dedicado.'' Él es el hijo de Jared y el padre de Matusalén. Después de que nació Matusalén, ''caminó con Dios'' durante 300 años y luego fue traducido sin probar la muerte. Él fue el séptimo desde Adán.</strong></p><br><p>Hijo de Jared y padre de Matusalén (Génesis 5:21; Luk 3:37). Su padre tenía ciento sesenta y dos años cuando nació. Después del nacimiento de Matusalén, Enoc ''caminó con Dios trescientos años'' (Génesis 5:22—24), cuando fue traducido sin probar la muerte. Toda su vida en la tierra fue de trescientos sesenta y cinco años. Él era el ''séptimo desde Adán'' (Jud 1:14), a diferencia del hijo de Caín, el tercero de Adán. Se habla de él en el catálogo de los dignos del Antiguo Testamento en la Epístola a los Hebreos (Heb 11:5). Cuando fue traducido, sólo Adán, hasta donde se registró, había muerto aún una muerte natural, y Noé aún no había nacido. Se menciona la profecía de Enoc solo en Judá 1:14.</p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:18",
+              "texto": "18 Jared tenía ciento sesenta y dos años cuando tuvo a su hijo Enoc."
+            },
+            {
+              "referencia": "Génesis 5:21-24",
+              "texto": "21 Enoc tenía sesenta y cinco años cuando tuvo a su hijo Matusalén. 22 Después del nacimiento de Matusalén, Enoc anduvo fielmente con Dios trescientos años más y tuvo otros hijos y otras hijas. 23 En total, Enoc vivió trescientos sesenta y cinco años, 24 y como anduvo fielmente con Dios, un día desapareció porque Dios se lo llevó."
+            }
+          ]
         },
         {
           "nombre": "Matusalen",

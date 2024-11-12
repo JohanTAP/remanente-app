@@ -52,7 +52,7 @@ export default async function EventoPage ( { params }: EventoPageProps )
                     <h2 className="text-2xl font-bold">Escrituras Asociadas</h2>
                     { evento.escrituras.map( ( escritura: Escritura, index: number ) => (
                         <div key={ index } className="mt-4">
-                            <h4 className="text-xl font-semibold">{ escritura.referencia }</h4>
+                            <h3 className="text-xl font-semibold">{ escritura.referencia }</h3>
                             <p className="text-lg text-gray-700">{ escritura.texto }</p>
                         </div>
                     ) ) }
