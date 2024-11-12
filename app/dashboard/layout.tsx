@@ -33,6 +33,8 @@ export default function DashboardLayout ( { children }: { children: React.ReactN
 
     const segments = pathname.split( "/" ).filter( ( seg ) => seg );
 
+    const lastSegment = segments.length > 1 ? segments[ segments.length - 1 ] : null;
+
     return (
         <SidebarProvider>
             <AppSidebar />
@@ -50,24 +52,15 @@ export default function DashboardLayout ( { children }: { children: React.ReactN
                                 </BreadcrumbItem>
                                 <BreadcrumbSeparator className="hidden md:block" />
 
-                                { segments.map( ( segment, index ) =>
-                                {
-                                    const isLast = index === segments.length - 1;
-                                    const path = "/" + segments.slice( 0, index + 1 ).join( "/" );
-
-                                    return (
-                                        <React.Fragment key={ index }>
-                                            <BreadcrumbItem>
-                                                { isLast ? (
-                                                    <BreadcrumbPage>{ formatSegment( segment ) }</BreadcrumbPage>
-                                                ) : (
-                                                    <BreadcrumbLink href={ path }>{ formatSegment( segment ) }</BreadcrumbLink>
-                                                ) }
-                                            </BreadcrumbItem>
-                                            { !isLast && <BreadcrumbSeparator className="hidden md:block" /> }
-                                        </React.Fragment>
-                                    );
-                                } ) }
+                                { pathname === "/" ? (
+                                    <BreadcrumbPage>Inicio</BreadcrumbPage>
+                                ) : (
+                                    lastSegment && (
+                                        <BreadcrumbItem>
+                                            <BreadcrumbPage>{ formatSegment( lastSegment ) }</BreadcrumbPage>
+                                        </BreadcrumbItem>
+                                    )
+                                ) }
                             </BreadcrumbList>
                         </Breadcrumb>
                     </div>
