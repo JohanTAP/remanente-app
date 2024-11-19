@@ -153,8 +153,17 @@
           "anos_despues_hijo": 782,
           "ano_nacimiento": 687,
           "ano_muerte": 1656,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Matusalén murió el mismo año que la inundación. El estudio etimológico profundo de su nombre revela un significado similar a ''Cuando muera, vendrá'', dando crédito al estado de su padre Enoc como profeta. Era hijo de Enoc y abuelo de Noé.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:21",
+              "texto": "21 Enoc tenía sesenta y cinco años cuando tuvo a su hijo Matusalén."
+            },
+            {
+              "referencia": "Génesis 5:25-27",
+              "texto": "25 Matusalén tenía ciento ochenta y siete años cuando tuvo a su hijo Lamec. 26 Después del nacimiento de Lamec, Matusalén vivió setecientos ochenta y dos años más y tuvo otros hijos y otras hijas. 27 De modo que Matusalén vivió novecientos sesenta y nueve años y murió."
+            }
+          ]
         },
         {
           "nombre": "Lamec",
